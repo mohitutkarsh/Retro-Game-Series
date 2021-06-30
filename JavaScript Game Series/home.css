@@ -1,0 +1,79 @@
+#search {
+    text-align: right;
+    color: white;
+}
+
+.row align-items-start {
+    text-align: center;
+}
+
+#one {
+    display: inline;
+}
+
+#home {
+    left: 0%;
+    margin-left: 30px;
+}
+
+#nav {
+    width: 100%; 
+       
+} 
+
+body {
+    margin: 0;
+    padding: 0;
+    background : url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/shutterstock_262946390.jpg");
+    opacity: 0.8;
+    
+    background-size: cover;
+} 
+
+.rounded float-start {
+    margin-top: 200px;
+}
+
+h2 {
+    margin-top: 1000px;
+}
+
+.rounded float-end {
+    width: 200px;
+    height: 200px;
+}
+
+#logo {
+    border-radius: 15%;
+    margin-left: 350px;
+    height: 800px;
+    border-top: 0ch;
+    border-style: groove;
+    border-color: red;
+      
+  }
+
+ .carousel slide {
+     margin-right: 50px;
+ }   
+
+ #cd {
+     margin-top: 20px;
+     background: black;
+ }
+
+ #carouselExampleCaptions {
+     width: 1100px;
+     margin-left: 200px;
+ }
+
+ .card-body {
+     color : black;
+     background-color: gold;
+ }
+
+ #car {
+     margin-top: 20px;
+     width: 100%;
+ }
+
